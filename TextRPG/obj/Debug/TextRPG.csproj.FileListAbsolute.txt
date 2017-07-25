@@ -1,0 +1,6 @@
+C:\Users\perry\Desktop\C# Work\Reddit Challenges\TextRPG\TextRPG\bin\Debug\TextRPG.exe.config
+C:\Users\perry\Desktop\C# Work\Reddit Challenges\TextRPG\TextRPG\bin\Debug\TextRPG.exe
+C:\Users\perry\Desktop\C# Work\Reddit Challenges\TextRPG\TextRPG\bin\Debug\TextRPG.pdb
+C:\Users\perry\Desktop\C# Work\Reddit Challenges\TextRPG\TextRPG\obj\Debug\TextRPG.csprojResolveAssemblyReference.cache
+C:\Users\perry\Desktop\C# Work\Reddit Challenges\TextRPG\TextRPG\obj\Debug\TextRPG.exe
+C:\Users\perry\Desktop\C# Work\Reddit Challenges\TextRPG\TextRPG\obj\Debug\TextRPG.pdb
