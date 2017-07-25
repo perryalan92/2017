@@ -1,7 +1,7 @@
 # RPGgame
 ------------------------------------------------------------------------------------------------------------------------
 This is an adventure game which utilizes object oriented programming to implement the randomly generated story, combat and progress of a
-character.
+character on an adventure.
 
 
 
